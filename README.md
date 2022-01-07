@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @victor-pena 
-- 👀 I’m interested in urbanization driven by people self-building their houses
+- 👀 I’m interested in urbanization that is driven by people self-building their houses
 - 🌱 I’m currently learning computational tools to replicate it at the scale of interacting individuals and institutions
 - 💞️ I’m looking to collaborate on exploring algorithms to represent the process and the spatial patterns that emerges from its operation
 - 📫 How to reach me: victorpg@lamolina.edu.pe
